@@ -1,0 +1,12 @@
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\bin\Debug\net7.0\AreaCalculation.deps.json
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\bin\Debug\net7.0\AreaCalculation.dll
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\bin\Debug\net7.0\AreaCalculation.pdb
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.csproj.AssemblyReference.cache
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.AssemblyInfoInputs.cache
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.AssemblyInfo.cs
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.dll
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\refint\AreaCalculation.dll
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\AreaCalculation.pdb
+C:\Mirlan\MindBox\Tasks\AreaCalculation\AreaCalculation\obj\Debug\net7.0\ref\AreaCalculation.dll
